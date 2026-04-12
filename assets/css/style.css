@@ -1,0 +1,17 @@
+
+.card img.principal {
+  width: 450px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+.img-pronostico {
+  width: 100%;
+  height: 180px;
+  object-fit: contain;
+}
+.card-clima {
+  background: color #e3f2fd;
+  border: 1px solid #90caf9;
+  border-radius: 12px;
+}
+
