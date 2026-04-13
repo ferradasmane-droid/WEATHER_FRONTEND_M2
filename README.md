@@ -33,8 +33,22 @@ El objetivo de este proyecto es aplicar conocimientos de:
 Bootstrap 5
 - Git / GitHub
 
+## Cómo usar
+
+1️⃣ Abrir la aplicación desde el navegador:
+
+2️⃣ Navega por las ciudades disponibles en la pagina 
+principal.
+
+3️⃣ Navega entre páginas:
+
+- Usar el menú superior (Home, Detalle, Acerca de)
+- Utilizar el botón "volver" para regresar al inicio.
+
+
 ## 🚫 Nota
-Este proyecto fue desarrollado sin JavaScript, centrandose en la estructura del contenido y la navegación entre páginas, según los requerimientos del módulo.
+Este proyecto fue desarrollado sin JavaScript, centrandose en la estructura 
+del contenido y la navegación entre páginas, según los requerimientos del módulo.
 
 ## 👩‍💻 Autora
 
