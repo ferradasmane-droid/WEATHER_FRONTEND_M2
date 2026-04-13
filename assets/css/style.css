@@ -31,3 +31,12 @@ body {
   transform: scale(1.02);
   transition: 0,3s;
 }
+nav a {
+  text-decoration: none;
+}
+nav a :hover {
+  text-decoration: underline;
+}
+footer {
+  font-size: 14px;
+}
