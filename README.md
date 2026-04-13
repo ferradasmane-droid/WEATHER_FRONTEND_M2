@@ -13,7 +13,7 @@ El objetivo de este proyecto es aplicar conocimientos de:
 
 - CSS para personalización de estilos.
 
--Git y GitHub para control de versiones.
+- Git y GitHub para control de versiones.
 
 ## Funcionalidades
 
