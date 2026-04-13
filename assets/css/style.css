@@ -40,3 +40,8 @@ nav a :hover {
 footer {
   font-size: 14px;
 }
+
+.card p {
+  padding-left: 20px;
+  padding-right: 20px;
+}
