@@ -54,8 +54,8 @@ o
 ### Nelly Ferrada
 Proyecto desarrollado como parte de formación en desarrollo Frontend M2.
 
-## 💻 Repositorio
-👉[Ver código]https://github.com/ferradasmane-droid/WEATHER_FRONTEND_M2.git
+## 🔗 Enlaces
 
-## 🌐 Demo
-👉 [Ver app]https://ferradasmane-droid.github.io/WEATHER_FRONTEND_M2/
+- 🌐 Sitio web: https://ferradasmane-droid.github.io/WEATHER_FRONTEND_M2/
+- 💻Repositorio: https://github.com/ferradasmane-droid/WEATHER_FRONTEND_M2.git
+
