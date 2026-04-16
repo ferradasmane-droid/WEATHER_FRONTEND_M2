@@ -49,14 +49,13 @@ principal.
 ## 🚫 Nota
 Este proyecto fue desarrollado sin JavaScript, centrandose en la estructura 
 del contenido y la navegación entre páginas, según los requerimientos del módulo.
-
-## 👩‍💻 Autora
+o
 
 ### Nelly Ferrada
 Proyecto desarrollado como parte de formación en desarrollo Frontend M2.
 
-## Repositorio
+## 💻 Repositorio
+👉[Ver código]https://github.com/ferradasmane-droid/WEATHER_FRONTEND_M2.git
 
-Puedes ver el proyecto aquí:
-
-👉 https://ferradasmane-droid.github.io/WEATHER_FRONTEND_M2/
+## 🌐 Demo
+👉 [Ver app]https://ferradasmane-droid.github.io/WEATHER_FRONTEND_M2/
